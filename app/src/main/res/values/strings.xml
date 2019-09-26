@@ -3,4 +3,10 @@
 
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\’m a button</string>
+
+    <string name="Text1">Look at my GUI</string>
+    <string name="Text2">Click Here</string>
+    <string name="Text3">Check this out</string>
+    <string name="Text4">Switch on/off</string>
+    <string name="Text5">Type here</string>
 </resources>

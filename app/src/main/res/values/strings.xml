@@ -9,4 +9,8 @@
     <string name="Text3">Check this out</string>
     <string name="Text4">Switch on/off</string>
     <string name="Text5">Type here</string>
+
+    <string name="send">SEND</string>
+    <string name="receive">RECEIVE</string>
+    <string name="goChat">GO TO CHAT</string>
 </resources>
